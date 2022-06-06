@@ -150,6 +150,6 @@ __help__ = """
 /ping: Miku pong
 """
 
-__mod_name__ = "ping⚡"
+__mod_name__ = "ping"
 __command_list__ = ["ping", "pingall"]
 __handlers__ = [PING_HANDLER, PINGALL_HANDLER]
