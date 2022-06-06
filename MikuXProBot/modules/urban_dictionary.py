@@ -26,6 +26,6 @@ __help__ = """
 /ud: an definition for you word
 """
 
-__mod_name__ = "ud🗒️"
+__mod_name__ = "ud"
 __command_list__ = ["ud"]
 __handlers__ = [UD_HANDLER]
